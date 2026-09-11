@@ -28,7 +28,13 @@ print(3 > 4 == 2) # Operaciones combinadas
 
 print("Hola" > "Python") # Comparación de strings
 print("Hola" < "Python") # Comparación de strings
-print("Hola" >= "Zola") # Comparación de strings
+print("Hola" >= "Zola") # Ordenamiento alfabético por el valor ASCII de los caracteres
+print(len("Hola") >= len("Python")) # Cuenta de caracteres
 print("Hola" <= "Python") # Comparación de strings
 print("Hola" == "Python") # Comparación de strings
 print("Hola" != "Python") # Comparación de strings
+
+#### Operadores Lógicos ###
+print(3 > 4 and 2 < 3) # AND
+print(3 > 4 or 2 < 3) # OR
+print(not (3 > 4)) # NOT
