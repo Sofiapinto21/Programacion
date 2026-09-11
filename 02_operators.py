@@ -28,7 +28,7 @@ print(3 > 4 == 2) # Operaciones combinadas
 
 print("Hola" > "Python") # Comparación de strings
 print("Hola" < "Python") # Comparación de strings
-print("Hola" >= "Python") # Comparación de strings
+print("Hola" >= "Zola") # Comparación de strings
 print("Hola" <= "Python") # Comparación de strings
 print("Hola" == "Python") # Comparación de strings
 print("Hola" != "Python") # Comparación de strings
