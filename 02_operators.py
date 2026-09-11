@@ -24,3 +24,11 @@ print(3 >= 4) # Mayor o igual que
 print(3 <= 4) # Menor o igual que
 print(3 == 4) # Igual que
 print(3 != 4) # Diferente que
+print(3 > 4 == 2) # Operaciones combinadas
+
+print("Hola" > "Python") # Comparación de strings
+print("Hola" < "Python") # Comparación de strings
+print("Hola" >= "Python") # Comparación de strings
+print("Hola" <= "Python") # Comparación de strings
+print("Hola" == "Python") # Comparación de strings
+print("Hola" != "Python") # Comparación de strings
